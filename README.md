@@ -1,7 +1,7 @@
 # Stock Price Movement and Social Media Sentiment Correlation
 ##### Comparative Analysis of Social Media Sentiment and Stock Price Correlation: NextEra (NEE), Palantir (PLTR), Procter and Gamble (PG), Nvidia (NVDA), and Tesla (TSLA)
 
-### This Project is available on 
+#### This Project is available on 
 GitHub: https://github.com/1010sb/StockSentimentAnalysis.git 
 GitLab: https://gitlab.com/1010sb/StockSentimentAnalysis.git
 
